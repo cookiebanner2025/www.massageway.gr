@@ -81,7 +81,7 @@ function isEEAVisitor() {
 
 const config = {
     // Domain restriction
-    allowedDomains: [],
+    allowedDomains: ['www.massageway.gr'],
     
     // Privacy policy URL (configurable)
     privacyPolicyUrl: 'https://www.massageway.gr/politiki-aporitou/', // Add your full privacy policy URL here
@@ -169,7 +169,7 @@ clarityConfig: {
         showAdminButton: false,
         floatingButtonPosition: 'left',
         adminButtonPosition: 'left',
-        bannerPosition: 'left',
+        bannerPosition: 'right',
         bannerAnimation: {
             duration: 0.4,
             easing: 'cubic-bezier(0.25, 0.8, 0.25, 1)',
