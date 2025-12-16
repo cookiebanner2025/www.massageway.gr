@@ -6,6 +6,7 @@
  */
 
 
+
 /**
 you can change the cookie category description text by this class. like you can change the essential cookies description text size.
   .broadcookiedes {
